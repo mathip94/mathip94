@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a C# version of "Proyecto Universitario 1" and a new app using a data base conection
-
-- 🌱 I’m currently learning EntityFramework and getting a deeper understanment on SQL Server
-
 - 💬 Ask me about anything you wanna know
 
 - 📫 How to reach me: mathipe94@gmail.com or www.linkedin.com/in/mathiasperez
