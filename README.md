@@ -6,4 +6,3 @@
 
 - ENG/ESP
 
-Check our proyect! https://www.lessonpad.io/
